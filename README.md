@@ -5,7 +5,7 @@
 ## R Projects
 ------------
 | Project Name        | Description           | Link  |
-| ------------- |:-------------:| -----:|
+| ------------- |-------------| -----|
 | Exploring the Kaggle Data Science Survey      | Discover the top tools Kaggle articipants use for data science and machine learning. | [Notebook](https://github.com/Ryan-OHanlon/Datacamp-Projects/blob/main/R%20Projects/Exploring%20the%20Kaggle%20Data%20Science%20Survey/notebook.ipynb) |
 | Phyllotaxis: Draw Flowers Using Mathematics      | Use R to make art and create imaginary flowers inspired by nature.      | [Notebook](https://github.com/Ryan-OHanlon/Datacamp-Projects/blob/main/R%20Projects/Phyllotaxis%20Draw%20Flowers%20Using%20Mathematics/notebook.ipynb)   |
 
