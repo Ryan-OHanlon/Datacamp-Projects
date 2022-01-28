@@ -6,6 +6,7 @@
 ------------
 | Project Name        | Description           | Link  |
 | ------------- |-------------| -----|
+| Dr. Semmelweis and the Discovery of Handwashing   | Reanalyse the data behind one of the most important discoveries of modern medicine: handwashing. | [Notebook](https://github.com/Ryan-OHanlon/Datacamp-Projects/blob/main/R%20Projects/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/notebook.ipynb) |
 | Exploring the Kaggle Data Science Survey      | Discover the top tools Kaggle articipants use for data science and machine learning. | [Notebook](https://github.com/Ryan-OHanlon/Datacamp-Projects/blob/main/R%20Projects/Exploring%20the%20Kaggle%20Data%20Science%20Survey/notebook.ipynb) |
 | Phyllotaxis: Draw Flowers Using Mathematics      | Use R to make art and create imaginary flowers inspired by nature.      | [Notebook](https://github.com/Ryan-OHanlon/Datacamp-Projects/blob/main/R%20Projects/Phyllotaxis%20Draw%20Flowers%20Using%20Mathematics/notebook.ipynb)   |
 
