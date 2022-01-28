@@ -12,6 +12,6 @@
 ## SQL Projects
 ------
 | Project Name        | Description           | Link  |
-| ------------- |:-------------:| -----:|
+| ------------- |-------------| -----|
 | Analyze International Debt Statistics      | Write SQL queries to answer interesting questions about international debt using data from The World Bank. | [Notebook](https://github.com/Ryan-OHanlon/Datacamp-Projects/blob/main/SQL%20Projects/Analyze%20International%20Debt%20Statistics/notebook.ipynb) |
 | What and Where are the World's Oldest Businesses      | Use joining techniques to discover the oldest businesses in the world.      | [Notebook](https://github.com/Ryan-OHanlon/Datacamp-Projects/blob/main/SQL%20Projects/What%20and%20Where%20are%20the%20World's%20Oldest%20Businesses/notebook.ipynb)   |
