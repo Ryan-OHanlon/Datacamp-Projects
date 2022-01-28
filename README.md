@@ -2,6 +2,10 @@
 
 ![Datacamp Logo](https://github.com/Ryan-OHanlon/Datacamp-Projects/blob/main/Datacamp-Logo.png)
 
+[Datacamp](https://www.datacamp.com/) is an online subscription learning platform with a focusing on data science teaching programming languages R, SQL, and Python. Below are the projects I completed working through real-world problems testing my knowledge of R and SQL.
+
+If you find these projects helpful for you to learn data analysis please leave a star to help others in the future.
+
 ## R Projects
 ------------
 | Project Name        | Description           | Link  |
